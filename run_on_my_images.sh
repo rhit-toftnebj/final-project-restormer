@@ -1,0 +1,2 @@
+python demo.py --task Motion_Deblurring --input_dir my_images/motion --result_dir result_images --tile 720 --tile_overlap 32
+python demo.py --task Single_Image_Defocus_Deblurring --input_dir my_images/defocus --result_dir result_images --tile 720 --tile_overlap 32
